@@ -23,6 +23,8 @@ Collision detection with walls and snake body
 
 ![Alt text](image.png)
 
+![Alt text](image-1.png)
+
 ## Installation
 
 1. Clone the repository to your local machine:
